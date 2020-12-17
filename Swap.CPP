@@ -1,4 +1,4 @@
-//C++ program to swap the values two variable given by user.
+//C++ program to swap the values of two variable given by user.
 
 #include<iostream.h>
 #include<conio.h>
