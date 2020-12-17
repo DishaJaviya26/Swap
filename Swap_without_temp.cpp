@@ -1,4 +1,4 @@
-//C++ program to swap two variable without using temporary variable.
+//C++ program to swap the values of two variable without using temporary variable.
 
 #include<iostream.h>
 #include<conio.h>
